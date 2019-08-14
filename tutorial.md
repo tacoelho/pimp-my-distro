@@ -45,6 +45,7 @@ Habilite o AUR para baixar temas.
 
 O Conky é um monitor de sistema que exibe informações de hardware e estado da máquina, tais como uso de memória, estado dos discos, da C.P.U. etc. Em seu estado normal, ele é uma espécie de widget na área de trabalho sem nenhum grande atrativo visual.
 Para instalar no Ubuntu, primeiro é preciso instalar o [Real Path](https://launchpad.net/ubuntu/bionic/+package/realpath) e depois o [Conky-Manager](https://github.com/teejee2008/conky-manager/releases).
+No Manjaro é só baixar na loja.
 
 
 ## Tema de ícones
